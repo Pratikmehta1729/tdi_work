@@ -1,2 +1,2 @@
-# tdi_work
-tdi work will be uploaded here
+# Convert csv file to json file
+ Just downlaod and run with node that's it
